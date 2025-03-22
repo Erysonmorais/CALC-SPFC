@@ -1,2 +1,2 @@
-# CALC-SPFC
+CALC NOSYRE
 Calculadora
